@@ -1,0 +1,16 @@
+.sideBarMain{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    .leftContent{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        .listItem{
+            display: flex;
+            gap: 20px;
+            padding-left: 10px;
+        }
+    }
+    
+}
