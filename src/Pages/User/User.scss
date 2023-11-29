@@ -1,0 +1,57 @@
+.image{
+    height: 30px;
+    width: 20px;
+    border-radius: 50%;
+   
+}
+.btnSearch{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 30px;
+    padding:  20px 0px;
+   
+}
+.btnDelete{
+    display: flex;
+    gap: 10px;
+}
+
+tr{
+    text-align: center;
+}
+
+hr{
+    border: 0.5px solid black;
+}
+
+.action{
+    display: flex;
+    gap: 5px;
+    justify-content: space-evenly;
+}
+
+td{
+    padding: 5px 0px;
+}
+
+button{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+// .custom-table {
+//     width: 1000px; /* Set the fixed width for the table */
+//     table-layout: fixed;
+//   }
+  
+  
+//   .custom-table td {
+//     height: 50px; /* Set the fixed height for each row */
+//     width: 100px; /* Set the fixed width for each cell */
+ 
+// }
+  
+//   .selected-row {
+//     background-color: #e6f7ff; /* Set the background color for selected rows */
+//     cursor: pointer;
+//   }

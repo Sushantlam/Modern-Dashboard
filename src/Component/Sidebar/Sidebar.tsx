@@ -16,42 +16,13 @@ const menu = [
       },
       {
         id: 2,
-        title: 'Profile',
-        url: '/users/1',
+        title: 'User',
+        url: '/user',
         icon: <FaHome />,
       },
     ],
   },
-  {
-    id: 2,
-    title: 'lists',
-    listItems: [
-      {
-        id: 1,
-        title: 'Users',
-        url: '/users',
-        icon: <FaHome />,
-      },
-      {
-        id: 2,
-        title: 'Products',
-        url: '/products',
-        icon: <FaHome />,
-      },
-      {
-        id: 3,
-        title: 'Orders',
-        url: '/orders',
-        icon: <FaHome />,
-      },
-      {
-        id: 4,
-        title: 'Posts',
-        url: '/posts',
-        icon: <FaHome />,
-      },
-    ],
-  },
+
   
   
 ];
